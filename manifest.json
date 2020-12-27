@@ -1,0 +1,10 @@
+{
+    "all":["mext.bundle"],
+    "mext.bundle":{
+        "id":"mext.bundle",
+        "description":"MExt 整合运动最终产物。",
+        "author":"MExt",
+        "name":"MExt 整合模块",
+        "gid":"MCBBS-Loader:Integration-Motion:bundle:main"
+    }
+}
