@@ -1,5 +1,4 @@
 {
-    "all":["mext.bundle"],
     "mext.bundle":{
         "id":"mext.bundle",
         "description":"MExt 整合运动最终产物。",
